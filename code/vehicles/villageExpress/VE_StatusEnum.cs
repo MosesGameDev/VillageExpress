@@ -1,0 +1,5 @@
+
+public class VE_StatusEnum 
+{
+    public enum vE_Status { NONE, IDLE, MOVING, STOPPED, DROPPING_PASSENGERS, READY_FOR_BOARDING, PICKING_PASSENGERS };
+}
